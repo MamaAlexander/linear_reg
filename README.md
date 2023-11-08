@@ -1,3 +1,3 @@
 # linear_regression
 
-Project on 'Investment activity in crysis'
+Project "Investment Activity in a Crisis", HSE, 2023
