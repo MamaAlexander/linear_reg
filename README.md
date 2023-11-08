@@ -1,1 +1,3 @@
-# linear_reg
+# linear_regression
+
+Project on 'Investment activity in crysis'
